@@ -8,7 +8,7 @@
 - PosgreSQL (with Sequelize)
 - MongoDB (with Mongoose)
 
-🌱 I’m currently learning AngularJS and React Native📱.
+🌱 I’m currently learning React Native📱.
 
 👀 I’m interested in new challenges where learn day by day.
 

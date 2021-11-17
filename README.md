@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Ignacio Aranda <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<h4 align="center">🧑I´m a 19yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr) graduate and currently studying second year of Software Engineering degree in Siglo 21 University. </h4>
+<h4 align="center">🧑I'm a 19yo developer from Argentina, Henry Bootcamp (full stack web dev +800hr) graduate and currently studying second year of Software Engineering degree in Siglo 21 University. </h4>
 
 - 🌱 I’m currently learning **React Native📱**
 

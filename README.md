@@ -14,7 +14,7 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacio-aranda-webdeveloper/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nachoar02/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nacho.aranda02/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nacho.17012002@gmail.com)
 [![image](https://img.shields.io/badge/Portfolio-2E2E2E?style=for-the-badge&logo=portfolio&logoColor=white)](https://elnacho02.github.io/portfolio-responsive/)
 
